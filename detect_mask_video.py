@@ -134,7 +134,7 @@ while True:
 
 	# show the output frame
 	frame= cv2.resize(frame,(860,490))
-	cv2.imshow("Masks Detection by Oh Yicong", frame)
+	cv2.imshow("Masks Detection by sam", frame)
 	key = cv2.waitKey(1) & 0xFF
 
 	# if the `q` key was pressed, break from the loop
