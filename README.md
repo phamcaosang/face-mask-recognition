@@ -1,4 +1,4 @@
-# face-mask-detection using tensorflow
+# face-mask-regconition using tensorflow
 # You can use live version at: https://face-mask-detection-sam.netlify.app/  wait for 10 seconds for web processing
 
 # Result:
